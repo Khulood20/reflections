@@ -9,8 +9,8 @@ By Khulood Alkhudaidi
 <p> Reading the designer’s project flow gives an idea about the entire design process of a real data visualization project and how to explore and test different approaches. More importantly, it makes you aware of the potential obstacles and how to overcome them to present the visualization suitably. </p>
 
 
-### [1] Link to the post:
+### [1] Post link:
 https://www.visualcinnamon.com/2019/04/designing-google-cats-and-dogs/
 
-### [2] Link to the data visualisation:
+### [2] The vis link:
 https://whydocatsanddogs.com/
