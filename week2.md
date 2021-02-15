@@ -10,5 +10,5 @@ By Khulood Alkhudaidi
 
 
 ## Sources:
-[1] https://www.visualcinnamon.com/2019/04/designing-google-cats-and-dogs/
-[2] https://whydocatsanddogs.com/
+1. https://www.visualcinnamon.com/2019/04/designing-google-cats-and-dogs/
+2. https://whydocatsanddogs.com/
