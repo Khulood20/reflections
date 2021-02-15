@@ -1,6 +1,6 @@
 ## Reflection about 'The Design Process of “Why Do Cats & Dogs ...?”'
 
-##### Khulood Alkhudaidi
+Khulood Alkhudaidi
 
 ### Link to the post:
 https://www.visualcinnamon.com/2019/04/designing-google-cats-and-dogs/
